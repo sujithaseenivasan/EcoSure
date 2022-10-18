@@ -1,0 +1,14 @@
+Leather 1
+Silk 2.5
+PVC 3
+Denim 4
+Cotton 5
+Linen 5.2
+Wool 5.3
+Synthetic leather 6
+Nylon 6.3
+Rayon 6.6
+Acrylic 6.7
+Spandex 7
+Polyester 7.4
+Acetate 8

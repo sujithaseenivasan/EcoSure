@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind');
+
+#susIndex{
+    font-weight: bold;
+    font-size: 50px;
+    margin: 5px;
+    padding: 5px;
+}
+
+    body{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+
+    color: black;
+    background-color: white;
+    min-width: 320px; 
+    overflow-x: hidden; 
+
+    font-family: "Hind"; 
+
+    border: solid;
+    border-radius: 30px;
+    border-color: cadetblue;
+    outline: none;
+    }
+
+  
+
